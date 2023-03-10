@@ -1,0 +1,22 @@
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\bin\Debug\Meghna Life Insuarance.exe.config
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\bin\Debug\Meghna Life Insuarance.exe
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\bin\Debug\Meghna Life Insuarance.pdb
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna Life Insuarance.csprojResolveAssemblyReference.cache
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.Form1.resources
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.Properties.Resources.resources
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna Life Insuarance.csproj.GenerateResource.Cache
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna Life Insuarance.exe
+c:\users\outmanoeuvrer\documents\visual studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna Life Insuarance.pdb
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.login.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.controlpanel.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.adminpanel.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.userpanel.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.userstatus.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.userpayment.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.usercomplain.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.adcontrol.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.adminadd.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.adminadmin.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.adminpayment.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.adminstatus.resources
+C:\Users\Outmanoeuvrer\Documents\Visual Studio 2013\Projects\Meghna Life Insuarance\Meghna Life Insuarance\obj\Debug\Meghna_Life_Insuarance.adminupdate.resources

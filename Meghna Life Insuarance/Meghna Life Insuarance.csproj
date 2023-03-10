@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DE3191BE-926B-4346-A31E-6B5940659D92}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Meghna_Life_Insuarance</RootNamespace>
+    <AssemblyName>Meghna Life Insuarance</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adcontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adcontrol.Designer.cs">
+      <DependentUpon>adcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminadd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminadd.Designer.cs">
+      <DependentUpon>adminadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminadmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminadmin.Designer.cs">
+      <DependentUpon>adminadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminpanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminpanel.Designer.cs">
+      <DependentUpon>adminpanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminpayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminpayment.Designer.cs">
+      <DependentUpon>adminpayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminstatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminstatus.Designer.cs">
+      <DependentUpon>adminstatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminupdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminupdate.Designer.cs">
+      <DependentUpon>adminupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="controlpanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="controlpanel.Designer.cs">
+      <DependentUpon>controlpanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="usercomplain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercomplain.Designer.cs">
+      <DependentUpon>usercomplain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userpanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userpanel.Designer.cs">
+      <DependentUpon>userpanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userpayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userpayment.Designer.cs">
+      <DependentUpon>userpayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userstatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userstatus.Designer.cs">
+      <DependentUpon>userstatus.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adcontrol.resx">
+      <DependentUpon>adcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminadd.resx">
+      <DependentUpon>adminadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminadmin.resx">
+      <DependentUpon>adminadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminpanel.resx">
+      <DependentUpon>adminpanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminpayment.resx">
+      <DependentUpon>adminpayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminstatus.resx">
+      <DependentUpon>adminstatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminupdate.resx">
+      <DependentUpon>adminupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controlpanel.resx">
+      <DependentUpon>controlpanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="usercomplain.resx">
+      <DependentUpon>usercomplain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userpanel.resx">
+      <DependentUpon>userpanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userpayment.resx">
+      <DependentUpon>userpayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userstatus.resx">
+      <DependentUpon>userstatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
